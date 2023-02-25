@@ -1,5 +1,5 @@
 /*
- * FILE:       cproxy.c
+ * FILE:       client-proxy.c
  * AUTHOR:     SIWEN WANG, VICTOR MOLINA
  * COURSE:     CSC4XX SPRING 2022
  */
