@@ -1,7 +1,7 @@
 /*
  * FILE:       cproxy.c
  * AUTHOR:     SIWEN WANG, VICTOR MOLINA
- * COURSE:     CSC 4XX SPRING 2022
+ * COURSE:     CSC4XX SPRING 2022
  */
 
 #include <stdio.h>
